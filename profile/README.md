@@ -1,4 +1,4 @@
-## Bausteine Comutergestützter Datenanalyse
+## Bausteine Computergestützter Datenanalyse
 
 <!--
 
