@@ -1,6 +1,4 @@
-# Bausteine Computergestützter Datenanalyse
-
-## Methodenbausteine
+# Methodenbausteine
 
 <details>
   <summary>Methodenbausteine Statistik</summary>
@@ -13,7 +11,7 @@
   - [Untersuchung von zwei Merkmalen](https://bausteine-der-datenanalyse.github.io/bcd-bausteine-statistik/m-zwei-merkmale/skript/skript.html)
 </details>
 
-## Werkzeugbausteine
+# Werkzeugbausteine
 
 <details>
   <summary>Werkzeugbausteine R</summary>
@@ -37,7 +35,7 @@
   - [Zeitreihen](https://bausteine-der-datenanalyse.github.io/bcd-bausteine-r/w-zeitreihen/folien/folien.html)
 </details>
 
-## Anwendungsbausteine
+# Anwendungsbausteine
 
 <details>
   <summary>Anwendungsbausteine R</summary>
@@ -47,6 +45,6 @@
   - [Analyse Verkehrssicherheit](https://bausteine-der-datenanalyse.github.io/a-sicherheitsanalyse/book)
 </details>
 
-## Lernpfade
+# Lernpfade
 
   - [Modul Mathematik B (HS Bochum)](https://github.com/bausteine-der-datenanalyse/bcd-modul-bo-mathematik-b)
