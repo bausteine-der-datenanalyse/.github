@@ -13,7 +13,7 @@
   
   - [Erste Schritte in RStudio](https://bausteine-der-datenanalyse.github.io/bcd-bausteine-r/w-erste-schritte/folien/folien.html)
   - [Grundlagen von ggplot2](https://bausteine-der-datenanalyse.github.io/bcd-bausteine-r/w-ggplot2/folien/folien.html)
-<details>
+</details>
 
 ## Anwendungsbausteine
 
