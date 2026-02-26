@@ -5,6 +5,7 @@
 <details>
   <summary>Methodenbausteine Statistik</summary>
 
+  - [Repository](https://github.com/bausteine-der-datenanalyse/bcd-bausteine-statistik)
   - [Statistische Daten](https://bausteine-der-datenanalyse.github.io/bcd-bausteine-statistik/m-statistische-daten/skript/skript.html)
   - [Untersuchung einzelner Merkmale](https://bausteine-der-datenanalyse.github.io/bcd-bausteine-statistik/m-einzelne-merkmale/skript/skript.html)
   - [Kenngrößen und Beschreibung von Verteilungen](https://bausteine-der-datenanalyse.github.io/bcd-bausteine-statistik/m-kenngroessen/skript/skript.html)
@@ -17,6 +18,7 @@
 <details>
   <summary>Werkzeugbausteine R</summary>
   
+  - [Repository](https://github.com/bausteine-der-datenanalyse/bcd-bausteine-r)
   - [Erste Schritte in RStudio](https://bausteine-der-datenanalyse.github.io/bcd-bausteine-r/w-erste-schritte/folien/folien.html)
   - [Grundlagen von ggplot2](https://bausteine-der-datenanalyse.github.io/bcd-bausteine-r/w-ggplot2/folien/folien.html)
   - [Untersuchung einzelner Merkmale](https://bausteine-der-datenanalyse.github.io/bcd-bausteine-r/w-einzelne-merkmale/folien/folien.html)
