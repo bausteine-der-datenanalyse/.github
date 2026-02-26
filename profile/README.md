@@ -1,6 +1,6 @@
 # Bausteine Computergestützter Datenanalyse
 
-### Methodenbausteine
+## Methodenbausteine
 
 <details>
   <summary>Methodenbausteine Statistik</summary>
