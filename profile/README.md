@@ -1,8 +1,13 @@
 ## Methodenbausteine
 
+<details>
+  <summary>Methodenbausteine Python</summary>
+  
   - [Datenfitting und Datenoptimierung](https://bausteine-der-datenanalyse.github.io/m-datenfitting-und-optimierung/output/book/)
   - [Einlesen strukturierter Datensätze](https://bausteine-der-datenanalyse.github.io/m-einlesen-strukturierter-datensaetze/output/book/)
   - [Sensordatenanalyse](https://bausteine-der-datenanalyse.github.io/m-sensordatenanalyse/output/book/)
+  - [Analyse von Zeitreihen](https://bausteine-der-datenanalyse.github.io/m-analyse-von-zeitreihen/output/book/)
+</details>
 
 <details>
   <summary>Methodenbausteine Statistik</summary>
@@ -17,12 +22,16 @@
 
 ## Werkzeugbausteine
 
+<details>
+  <summary>Werkzeugbausteine Python</summary>
+
   - [Pseudocode](https://bausteine-der-datenanalyse.github.io/w-pseudocode/Pseudocode.html)
   - [Python](https://bausteine-der-datenanalyse.github.io/w-python/output/book/)
   - [Python minimal](https://bausteine-der-datenanalyse.github.io/w-python-minimal/output/book/)
   - [Matplotlib](https://bausteine-der-datenanalyse.github.io/w-python-matplotlib/output/book/)
   - [NumPy](https://bausteine-der-datenanalyse.github.io/w-python-numpy-grundlagen/output/book/)
   - [Pandas](https://bausteine-der-datenanalyse.github.io/w-pandas/output/book/)
+</details>
 
 <details>
   <summary>Werkzeugbausteine R</summary>
