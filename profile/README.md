@@ -6,7 +6,7 @@
   - [Datenfitting und Datenoptimierung](https://bausteine-der-datenanalyse.github.io/m-datenfitting-und-optimierung/output/book/)
   - [Einlesen strukturierter Datensätze](https://bausteine-der-datenanalyse.github.io/m-einlesen-strukturierter-datensaetze/output/book/)
   - [Sensordatenanalyse](https://bausteine-der-datenanalyse.github.io/m-sensordatenanalyse/output/book/)
-  - [Analyse von Zeitreihen](https://bausteine-der-datenanalyse.github.io/m-analyse-von-zeitreihen/output/book/)
+  - [Analyse von Zeitdaten](https://bausteine-der-datenanalyse.github.io/m-analyse-von-zeitdaten/output/book/)
 </details>
 
 <details>
