@@ -1,5 +1,9 @@
 ## Methodenbausteine
 
+  - [Datenfitting und Datenoptimierung](https://bausteine-der-datenanalyse.github.io/m-datenfitting-und-optimierung/output/book/)
+  - [Einlesen strukturierter Datensätze](https://bausteine-der-datenanalyse.github.io/m-einlesen-strukturierter-datensaetze/output/book/)
+  - [Sensordatenanalyse](https://bausteine-der-datenanalyse.github.io/m-sensordatenanalyse/output/book/)
+
 <details>
   <summary>Methodenbausteine Statistik</summary>
 
@@ -12,6 +16,13 @@
 </details>
 
 ## Werkzeugbausteine
+
+  - [Pseudocode](https://bausteine-der-datenanalyse.github.io/w-pseudocode/Pseudocode.html)
+  - [Python](https://bausteine-der-datenanalyse.github.io/w-python/output/book/)
+  - [Python minimal](https://bausteine-der-datenanalyse.github.io/w-python-minimal/output/book/)
+  - [Matplotlib](https://bausteine-der-datenanalyse.github.io/w-python-matplotlib/output/book/)
+  - [NumPy](https://bausteine-der-datenanalyse.github.io/w-python-numpy-grundlagen/output/book/)
+  - [Pandas](https://bausteine-der-datenanalyse.github.io/w-pandas/output/book/)
 
 <details>
   <summary>Werkzeugbausteine R</summary>
@@ -38,6 +49,13 @@
 ## Anwendungsbausteine
 
 <details>
+  <summary>Anwendungsbausteine Python</summary>
+
+  - [Auswertung von fds-Daten](https://bausteine-der-datenanalyse.github.io/a-auswertung-fds-daten/output/book/)
+  - [Energiedatenanalyse](https://bausteine-der-datenanalyse.github.io/a-energiedatenanalyse/output/book/)
+</details>
+
+<details>
   <summary>Anwendungsbausteine R</summary>
 
   - [Unfalltypenkarte](https://bausteine-der-datenanalyse.github.io/a-unfalltypenkarten/book)
@@ -47,4 +65,5 @@
 
 ## Lernpfade
 
+  - [Moduk Ingenieurinformatik (BUW)](https://firedynamics.github.io/Vorlesung_Ingenieurinformatik/output/book/)
   - [Modul Mathematik B (HS Bochum)](https://github.com/bausteine-der-datenanalyse/bcd-modul-bo-mathematik-b)
