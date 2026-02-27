@@ -65,5 +65,5 @@
 
 ## Lernpfade
 
-  - [Moduk Ingenieurinformatik (BUW)](https://firedynamics.github.io/Vorlesung_Ingenieurinformatik/output/book/)
+  - [Modul Ingenieurinformatik (BUW)](https://firedynamics.github.io/Vorlesung_Ingenieurinformatik/output/book/)
   - [Modul Mathematik B (HS Bochum)](https://github.com/bausteine-der-datenanalyse/bcd-modul-bo-mathematik-b)
